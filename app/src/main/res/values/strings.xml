@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin-LogIN</string>
+    <string name="email_address">Email Address</string>
+</resources>
